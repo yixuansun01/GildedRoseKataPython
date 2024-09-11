@@ -19,7 +19,6 @@
 *.tar.gz
 *.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 *.lock
 *.properties
@@ -27,8 +26,6 @@ hs_err_pid*
 *.probe
 *.xml
 *.bat
-Lecture1/Lecture1/settings.gradle
-Lecture1/Lecture1/gradlew
 *.html
 *.css
 *.js
